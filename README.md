@@ -9,6 +9,10 @@ A Python-based Text-to-Speech (TTS) converter web application with support for m
 - **Web Interface:** User-friendly interface built with HTML, CSS, and JavaScript.
 - **Automatic cleanup:** Automatically deletes old files to manage disk space.
 
+## User Interface
+- ![image](https://github.com/user-attachments/assets/3c6a5eee-d72f-4de9-ad45-36f2c0e4c948)
+
+
 ## Technologies Used
 
 - **Flask:** A lightweight web framework for Python.
@@ -17,6 +21,10 @@ A Python-based Text-to-Speech (TTS) converter web application with support for m
 - **Librosa:** For pitch-shifting of audio files.
 - **SoundFile:** For saving modified audio files.
 - **HTML/CSS/JavaScript:** For the web-based frontend.
+
+## After Generating audio, you can listen it and download it
+- ![image](https://github.com/user-attachments/assets/c562a735-8cfd-4313-acff-48e963861e27)
+
 
 ## Installation
 
